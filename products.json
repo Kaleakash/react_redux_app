@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1719909357728",
+      "name": "Product 3",
+      "price": "600"
+    },
+    {
+      "id": "79c4",
+      "name": "Product 1",
+      "price": "100"
+    },
+    {
+      "id": "09a5",
+      "name": "Product 5",
+      "price": 600
+    },
+    {
+      "id": "04c6",
+      "name": "Product 2",
+      "price": 350
+    },
+    {
+      "id": "7ffc",
+      "name": "product 15",
+      "price": 460
+    },
+    {
+      "id": 1728045025477,
+      "name": "Product 100",
+      "price": "560"
+    }
+  ]
+}
